@@ -1,0 +1,29 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+body {background-color:rgb(254, 244, 232); min-height: 100vh; place-items: center; padding: 400px; }
+.grimage { display: grid; place-items: center; min-height: 100vh; background-color: white; border-radius: 10px; max-width: 500px; padding: 0px;}
+.first { font-family: Bahnschrift Light; text-transform: uppercase; color: gray; font-size: small; }
+.second { font-family: cultura new black; }
+.third { font-family: century gothic; color: gray; font-size: small;}
+img { display: block; width: 485px; height: 500px; border-top-left-radius: 10px; border-bottom-left-radius: 10px; padding-top: 0%; float: left;}
+.list { list-style: none;}
+.list li { display: inline-block; text-align: center; padding-left: 90px; padding-right: 0px;}
+.fourth { font-family: didot; font-size: larger; font-weight: 900; color: rgb(65, 111, 65);}
+.fifth { text-decoration: line-through;}
+.button {
+    text-align: center;
+    background-color: rgb(4, 99, 4);
+    border-radius: 10px;
+    border: none;
+    color: white;
+    width: 250px;
+    height: 50px;
+    position: center;
+    margin-left: 25%;
+    padding: 0%;
+    display: table-cell;
+}
+.butt li {
+    display: inline-block;
+    padding-right: 10px;
+}
